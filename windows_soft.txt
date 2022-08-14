@@ -41,9 +41,11 @@
   https://www.videolan.org/vlc/index.ru.html - VLC
 
 ### Chat
-  https://zoom.us/download#client_4meeting - 
-  https://rocket.chat/install#Apps - 
-  https://discord.com/download - 
+  https://desktop.telegram.org/ - Telegram
+    https://github.com/telegramdesktop
+  https://zoom.us/download#client_4meeting - Zoom
+  https://rocket.chat/install#Apps -  RocketChat
+  https://discord.com/download - Discord
 
 ### Torrent
   https://transmissionbt.com/download/ - 
