@@ -1,0 +1,83 @@
+### Web browsers
+  https://www.google.com/intl/ru_ru/chrome/ - Google Chrome
+  https://www.opera.com/ru/browsers/opera - Opera
+  https://www.mozilla.org/ru/firefox/new/ - Firefox
+
+### chrome extensions
+  https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai
+  https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen
+  https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji
+  https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+  https://chrome.google.com/webstore/detail/рутрекер-официальный-плаг/fddjpichkajmnkjhcmpbbjdmmcodnkej
+
+### Text editors
+  https://notepad-plus-plus.org/ - Notepad++
+    Плагины / Управление плагинами:
+      Compare
+      DSpellCheck
+  https://atom.io/ - Atom
+    File / settings / Install "compare-files"
+
+  https://code.visualstudio.com/ - VSC
+      compare
+      docker
+  https://ru.libreoffice.org/ - Libre Office
+  https://www.wps.com/ru-RU/download/ - WPS Office
+
+### PDF
+  https://www.sumatrapdfreader.org/download-free-pdf-viewer - SumatraPDF Reader
+
+### Graphics
+  https://www.gimp.org/ - Gimp
+    (http://www.progimp.ru/)
+  https://inkscape.org/ru/ - Inkscape
+  https://github.com/ksnip/ksnip/releases - ksnip
+
+### Zip & Rar
+  https://www.7-zip.org/ - 7Zip
+
+### Video & Audio
+  https://codecguide.com/download_kl.htm - codecs
+  https://www.videolan.org/vlc/index.ru.html - VLC
+
+### Chat
+  https://zoom.us/download#client_4meeting
+  https://rocket.chat/install#Apps
+  https://discord.com/download
+
+### Torrent
+  https://transmissionbt.com/download/
+  https://deluge-torrent.org/
+
+### Virtual
+  https://www.virtualbox.org/wiki/Downloads
+
+### net sniff & scan
+  https://www.wireshark.org/#download
+  https://nmap.org/download.html#windows
+
+### Xshell
+  https://www.netsarang.com/ru/free-for-home-school/ - xshel
+  https://mobaxterm.mobatek.net/download-home-edition.html - mobaxterm
+  https://docs.microsoft.com/ru-ru/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
+  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+### GIT
+  https://git-scm.com/
+
+### Docker
+  https://www.docker.com/products/docker-desktop/
+    https://docs.microsoft.com/ru-ru/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+      (https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+
+### Remote Access
+  https://anydesk.com/ru/downloads/windows
+  
+### Safe & generate Password
+  https://keepass.info/
+  
+### VPN
+  https://psiphon.ca/ru/download.html
+  
+  
+###
