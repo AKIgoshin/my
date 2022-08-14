@@ -21,9 +21,10 @@
   https://code.visualstudio.com/ - VSC
       compare
       docker
-  https://ru.libreoffice.org/ - Libre Office
+  https://ru.libreoffice.org/ - LibreOffice
   https://www.wps.com/ru-RU/download/ - WPS Office
-
+### Post
+  https://www.thunderbird.net/ru/ - Thunderbird
 ### PDF
   https://www.sumatrapdfreader.org/download-free-pdf-viewer - SumatraPDF Reader
 
@@ -57,31 +58,31 @@
   https://www.qemu.org/ - 
 
 ### net sniff & scan
-  https://www.wireshark.org/#download - 
-  https://nmap.org/download.html#windows - 
+  https://www.wireshark.org/#download - WireShark
+  https://nmap.org/download.html#windows - Nmap
 
 ### Xshell
   https://www.netsarang.com/ru/free-for-home-school/ - xshel
   https://mobaxterm.mobatek.net/download-home-edition.html - mobaxterm
-  https://docs.microsoft.com/ru-ru/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2 - 
-  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html - 
+  https://docs.microsoft.com/ru-ru/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2 - PowerShell
+  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html - PuTTY
 
 ### GIT
   https://git-scm.com/ - 
 
 ### Docker
-  https://www.docker.com/products/docker-desktop/ - 
+  https://www.docker.com/products/docker-desktop/ - Docker
     https://docs.microsoft.com/ru-ru/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
       (https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 
 ### Remote Access
-  https://anydesk.com/ru/downloads/windows - 
+  https://anydesk.com/ru/downloads/windows - AnyDesk
   
 ### Safe & generate Password
-  https://keepass.info/ - 
+  https://keepass.info/ - KeePass
   
 ### VPN
-  https://psiphon.ca/ru/download.html - 
+  https://psiphon.ca/ru/download.html - Psiphon
   
   
 ###
