@@ -42,7 +42,7 @@
 
 ### Chat
   https://desktop.telegram.org/ - Telegram
-    https://github.com/telegramdesktop
+    https://github.com/telegramdesktop/tdesktop
   https://zoom.us/download#client_4meeting - Zoom
   https://rocket.chat/install#Apps -  RocketChat
   https://discord.com/download - Discord
