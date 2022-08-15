@@ -23,8 +23,10 @@
       docker
   https://ru.libreoffice.org/ - LibreOffice
   https://www.wps.com/ru-RU/download/ - WPS Office
+
 ### Post
   https://www.thunderbird.net/ru/ - Thunderbird
+
 ### PDF
   https://www.sumatrapdfreader.org/download-free-pdf-viewer - SumatraPDF Reader
 
@@ -41,12 +43,16 @@
   https://codecguide.com/download_kl.htm - codecs
   https://www.videolan.org/vlc/index.ru.html - VLC
 
-### Chat
+### Messenger Chat
   https://desktop.telegram.org/ - Telegram
     https://github.com/telegramdesktop/tdesktop
   https://zoom.us/download#client_4meeting - Zoom
-  https://rocket.chat/install#Apps -  RocketChat
+  https://rocket.chat/install#Apps - RocketChat
   https://discord.com/download - Discord
+  https://element.io/get-started#download - Element
+  https://signal.org/ru/ - Signal
+  https://jitsi.org/ - jitsi
+    https://meet.jit.si/ - Jitsi web (limit 40 min)
 
 ### Torrent
   https://transmissionbt.com/download/ - 
