@@ -53,6 +53,7 @@
   https://signal.org/ru/ - Signal
   https://jitsi.org/ - jitsi
     https://meet.jit.si/ - Jitsi web (limit 40 min)
+  https://telemost.yandex.ru/ - Yandex Telemost
 
 ### Torrent
   https://transmissionbt.com/download/ - 
