@@ -90,6 +90,6 @@
   
 ### VPN
   https://psiphon.ca/ru/download.html - Psiphon
-  
+  https://www.wireguard.com/install/ - WireGuard
   
 ###
