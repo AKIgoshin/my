@@ -1,7 +1,8 @@
 ### Web browsers
   https://www.google.com/intl/ru_ru/chrome/ - Google Chrome
-  https://www.opera.com/ru/browsers/opera - Opera
   https://www.mozilla.org/ru/firefox/new/ - Firefox
+  https://brave.com/ - Brave
+  https://www.opera.com/ru/browsers/opera - Opera
 
 ### chrome extensions
   https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai - 
