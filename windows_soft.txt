@@ -24,6 +24,7 @@
       docker
   https://ru.libreoffice.org/ - LibreOffice
   https://www.wps.com/ru-RU/download/ - WPS Office
+  https://www.onlyoffice.com/ru/download-docs.aspx?from=default - ONLYOFFICE
 
 ### Post
   https://www.thunderbird.net/ru/ - Thunderbird
