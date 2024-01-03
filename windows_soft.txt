@@ -1,5 +1,5 @@
 ### Web browsers
-[Chrome] (https://www.google.com/intl/ru_ru/chrome/) - Google Chrome
+  https://www.google.com/intl/ru_ru/chrome/ - Google Chrome
   https://www.mozilla.org/ru/firefox/new/ - Firefox
   https://brave.com/ - Brave
   https://www.opera.com/ru/browsers/opera - Opera
